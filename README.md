@@ -44,3 +44,5 @@ http://localhost:8080/rooster/language?language=en
 
 #Running the tests
 Run the Test Class - com.singtel.solution.test.JunitTestSuite.java
+
+![SingtelSolutionHimani](https://user-images.githubusercontent.com/64253277/84594484-23a32800-ae85-11ea-8c25-8169c8df1f0c.jpg)
